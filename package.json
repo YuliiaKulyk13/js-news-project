@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "js-news-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://KateKolos.github.io/news-app-team-project",
+  "homepage": "https://KateKolos.github.io/js-news-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /news-app-team-project/"
+    "build": "parcel build src/*.html --public-url /js-news-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/katekolos/js-news-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/katekolos/js-news-project/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
