@@ -2,20 +2,20 @@
   "name": "js-news-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://KateKolos.github.io/js-news-project",
+  "homepage": "https://YuliiaKulyk13.github.io/js-news-project",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /js-news-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/katekolos/js-news-project.git"
+    "url": "git+https://github.com/yuliiakulyk13/js-news-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/katekolos/js-news-project/issues"
+    "url": "https://github.com/yuliiakulyk13/js-news-project/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
